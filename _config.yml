@@ -16,23 +16,23 @@ googleAnalyticsSiteUrl: "" #"gdg-x.github.io"
 siteVerification: "" #"b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "GDG Kota Kinabalu"
+organizerAlternateName: "Google Developer Group Kota Kinabalu"
+organizerDescription: "Open and passionate volunteer developer community aspiring to create exciting projects and share experience about Google technology with passion."
+organizerEmail: "ask@gdgkk.info"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www..gdgkk.info/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, polymer, design sprint, startup, developers, kota kinabalu"
+twitterAccount: "@GDGKotaKinabalu"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "" #"http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "" #"/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
