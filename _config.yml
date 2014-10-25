@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Kota Kinabalu 2014"
 email: "ask@gdgkk.info"
 description: "An annual Google developer festival in the city where the sun, sea, and sunset meet"
-baseurl: "/zeppelin"
+baseurl: "https://gdgkotakinabalu.github.io/zeppelin"
 url: "http://devfest.gdgkk.info"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
