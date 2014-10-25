@@ -21,7 +21,7 @@ organizerAlternateName: "Google Developer Group Kota Kinabalu"
 organizerDescription: "Open and passionate volunteer developer community aspiring to create exciting projects and share experience about Google technology with passion."
 organizerEmail: "ask@gdgkk.info"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www..gdgkk.info/"
+organizerLink: "http://www.gdgkk.info/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, polymer, design sprint, startup, developers, kota kinabalu"
@@ -54,7 +54,7 @@ heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "8th and 9th November, 2014"
 typeoutTextValues: '"", "Season", "Kota Kinabalu", "Malaysia"'
-typeoutFallback: "Season"
+typeoutFallback: "Kota Kinabalu"
 heroButtons:
  - {link: "", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Register"}
@@ -62,9 +62,9 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Tech Talks", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Code Labs", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Design Sprint", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Tech Talks", image: "conference.jpg", text: "Developer-focused, Google-related event carefully crafted for you by the GDG community. Awesome speakers and lots of fun!" }
+ - {title: "Code Labs", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and discover up-and-coming developer trends." }
+ - {title: "Design Sprint", image: "hackathon.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures ways." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
