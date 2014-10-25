@@ -41,7 +41,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
+ - {link: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -56,7 +56,7 @@ typeoutTextValues: '"", "Kota Kinabalu", "Season", "Malaysia"'
 typeoutFallback: "Kota Kinabalu"
 heroButtons:
  #- {link: "", text: "Become a sponsor"}
- - {permalink: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
+ - {link: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
