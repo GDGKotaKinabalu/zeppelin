@@ -100,10 +100,10 @@ mapMobileCenterCoordinates: "5.978641,116.076154"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "venue_1.jpg"
+venueSmallImage1: "venue_2.jpg"
+venueSmallImage2: "venue_3.jpg"
+venueSmallImage3: "venue_4.jpg"
 venueTitle: "Sabah Ministry of Resource Dev. & IT"
 venueFeatures: ["Mini auditorium", "Lounge area", "Conference room"]
 
