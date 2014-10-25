@@ -80,7 +80,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Featured speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "See Speaker Details"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -104,13 +104,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Sabah State Ministry of Resource Development and IT"
+venueFeatures: ["Mini auditorium", "Lounge area", "Conference room"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "devfestkk"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -168,25 +168,21 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "http://google.com/+GDGKotaKinabalu", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGKotaKinabalu", icon: "twitter"}
+ - {link: "https://facebook.com/GDGKotaKinabalu", icon: "facebook"}
+ #- {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdgkk.info", text: "GDG Kota Kinabalu"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
-
+   - {link: "mailto:ask@gdgkk.info", text: "lviv@gdgkk.info"}
+ 
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
