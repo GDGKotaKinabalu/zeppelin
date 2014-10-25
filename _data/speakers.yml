@@ -13,9 +13,9 @@
   id: 2
   name: "Taylor"
   surname: "Ling"
-  company: "Google Developer Expert"
+  company: "Google Developer Expert (GDE)"
   title: "Android UI/UX Design"
-  bio: 'Writer of AndroidUIUX.com, and appointed Google Developer Expert in UX/Design 2014-2015, Taylor is a globally sought-after topic expert on user interface and experience, for events such as Google I/O in San Francisco, DroidCon UK and Tunisia, as well as various other developer events throughout Malaysia and Southeast Asia. Taylor also organised the first ever UX conference in Malaysia in 2013.'
+  bio: 'Writer of AndroidUIUX.com, and appointed Google Developer Expert (GDE) in UX/Design 2014-2015, Taylor is a globally sought-after topic expert on user interface and experience, for events such as Google I/O in San Francisco, DroidCon UK and Tunisia, as well as various other developer events throughout Malaysia and Southeast Asia. Besides being the first ever GDE in Southeast Asia, Taylor also organised the first ever UX conference in Malaysia in 2013.'
   thumbnailUrl: TaylorLing.jpg
   rockstar: true
   social: 
