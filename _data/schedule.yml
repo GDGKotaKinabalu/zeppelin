@@ -20,10 +20,10 @@
     	sessionIds: [307]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2014-11-09"
+  dateReadable: "9th November 2014"
   tracks: 
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Design Sprint", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "10:00",
