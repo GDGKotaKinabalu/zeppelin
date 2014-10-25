@@ -1,23 +1,31 @@
 -
-  id: 001
+  id: 002
   title: "Coffee Break"
   place: "Hall"
   service: true
 -
-  id: 002
+  id: 003
   title: "Lunch Break"
   place: "Lounge"
   service: true
 -
-  id: 003
+  id: 004
   title: "End / Refreshment / Networking"
   place: "Hall"
   service: true
 -
-  id: 004
+  id: 001
   title: "Registration"
   place: "Lounge"
   service: true
+-
+  id: 301
+  title: "Welcoming remarks"
+  description: ""
+  subtype: presentation
+  #speakers: [3, 6]
+  #language: en
+  #complexity: "Intermediate"
 -
   id: 101
   title: "Introduction to Polymer"
