@@ -49,7 +49,7 @@ rightNavigationButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "8th and 9th November, 2014"
 typeoutTextValues: '"", "Kota Kinabalu", "Season", "Malaysia"'
