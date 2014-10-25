@@ -29,7 +29,7 @@
 -
   id: 101
   title: "Introduction to Polymer"
-  description: ""
+  description: "Demo to understand how Polymer is built on top of a set of powerful new web platform primitives called Web Components and helps to monumentally increase developer productivity."
   subtype: techtalk
   #speakers: [3, 6]
   #language: en
@@ -37,7 +37,7 @@
 -
   id: 102
   title: "Codelab: Web Components"
-  description: ""
+  description: "Use Polymer to build a mobile-friendly, Web Component-based, Google Drive client. The app supports choosing files by selecting or dragging and dropping. The app then uploads these files and persists them to a Google Drive account."
   subtype: codelab
   #speakers: [4, 5]
   #language: en
