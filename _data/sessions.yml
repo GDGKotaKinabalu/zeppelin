@@ -21,8 +21,9 @@
 -
   id: 301
   title: "Welcoming remarks"
-  description: ""
-  subtype: presentation
+  service: true
+  #description: ""
+  #subtype: presentation
   #speakers: [3, 6]
   #language: en
   #complexity: "Intermediate"
