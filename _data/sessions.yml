@@ -45,7 +45,7 @@
 -
   id: 103
   title: "Codelab: No-code programming for mobile apps"
-  description: ""
+  description: "Build a responsive mobile web app, featuring paper elements, paper widgets, ink effects, data-binding features and callbacks."
   subtype: codelab
   #speakers: [4]
   #language: en
@@ -53,7 +53,7 @@
 -
   id: 104
   title: "Mini-Hackathon"
-  description: ""
+  description: "Get creative and build your very own Polymer project."
   subtype: hackathon
   #speakers: [6]
   #language: uk
@@ -61,7 +61,7 @@
 -
   id: 201
   title: "Introduction to Design Sprint"
-  description: ""
+  description: "Discover what a design sprint is all about and how it can help you in fast-tracking your product development."
   subtype: techtalk
   speakers: [1]
   #language: en
@@ -69,7 +69,7 @@
 -
   id: 202
   title: "Best Practices in UI/UX and Material Design"
-  description: ""
+  description: "Learn how interface design enhances user experience, and explore how Material Design changes the way we interact with our applications."
   subtype: techtalk
   speakers: [2]
   #language: en
@@ -77,7 +77,7 @@
 -
   id: 203
   title: "Design Sprint Part 1"
-  description: ""
+  description: "Work in groups and experience how collaborative ideas are tightly focused and integrated to create a user-centric product."
   subtype: workshop
   speakers: [1]
   #language: en
@@ -85,7 +85,7 @@
 -
   id: 204
   title: "Design Sprint Part 2"
-  description: ""
+  description: "Work in groups and experience how collaborative ideas are tightly focused and integrated to create a user-centric product."
   subtype: workshop
   speakers: [1]
   #language: en
