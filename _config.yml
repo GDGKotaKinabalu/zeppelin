@@ -104,7 +104,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Sabah Ministry of Resource Development & IT"
+venueTitle: "Sabah Ministry of Resource Dev. & IT"
 venueFeatures: ["Mini auditorium", "Lounge area", "Conference room"]
 
 # Tweets Feed Block
