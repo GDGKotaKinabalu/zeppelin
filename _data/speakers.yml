@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Md Hadi"
   surname: "Shafie Othman"
   company: "Startup Weekend Brunei, Tru Synergy, Founders Institute"
@@ -10,7 +10,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MdHadiShafieOthman/"}
 - 
-  id: 4
+  id: 2
   name: "Taylor"
   surname: "Ling"
   company: "Google Developer Expert"
