@@ -181,7 +181,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:ask@gdgkk.info", text: "lviv@gdgkk.info"}
+   - {link: "mailto:ask@gdgkk.info", text: "ask@gdgkk.info"}
  
 # Blog
 blogTitle: "Latest news"
