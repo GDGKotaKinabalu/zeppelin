@@ -1,10 +1,8 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2014-11-08"
+  dateReadable: "8th November 2014"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Polymer Polytechnic", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -25,7 +23,6 @@
   date: "2014-10-25"
   dateReadable: "October 25"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
