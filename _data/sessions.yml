@@ -33,61 +33,61 @@
   description: "Demo to understand how Polymer is built on top of a set of powerful new web platform primitives called Web Components and helps to monumentally increase developer productivity."
   subtype: techtalk
   #speakers: [3, 6]
-  #language: en
-  #complexity: "Intermediate"
+  language: en
+  complexity: "Beginner"
 -
   id: 102
   title: "Codelab: Web Components"
   description: "Use Polymer to build a mobile-friendly, Web Component-based, Google Drive client. The app supports choosing files by selecting or dragging and dropping. The app then uploads these files and persists them to a Google Drive account."
   subtype: codelab
   #speakers: [4, 5]
-  #language: en
-  #complexity: "Beginner"
+  language: en
+  complexity: "Intermediate"
 -
   id: 103
   title: "Codelab: No-code programming for mobile apps"
   description: "Build a responsive mobile web app, featuring paper elements, paper widgets, ink effects, data-binding features and callbacks."
   subtype: codelab
   #speakers: [4]
-  #language: en
-  #complexity: "Expert"
+  language: en
+  complexity: "Intermediate"
 -
   id: 104
   title: "Mini-Hackathon"
   description: "Get creative and build your very own Polymer project."
   subtype: hackathon
   #speakers: [6]
-  #language: uk
-  #complexity: "Beginner"
+  language: en
+  complexity: "Intermediate"
 -
   id: 201
   title: "Introduction to Design Sprint"
   description: "Discover what a design sprint is all about and how it can help you in fast-tracking your product development."
   subtype: techtalk
   speakers: [1]
-  #language: en
-  #complexity: "Expert"
+  language: en
+  complexity: "Beginner"
 -
   id: 202
   title: "Best Practices in UI/UX and Material Design"
   description: "Learn how interface design enhances user experience, and explore how Material Design changes the way we interact with our applications."
   subtype: techtalk
   speakers: [2]
-  #language: en
-  #complexity: "Expert"
+  language: en
+  complexity: "Beginner"
 -
   id: 203
   title: "Design Sprint Part 1"
   description: "Work in groups and experience how collaborative ideas are tightly focused and integrated to create a user-centric product."
   subtype: workshop
   speakers: [1]
-  #language: en
-  #complexity: "Expert"
+  language: en
+  complexity: "Beginner"
 -
   id: 204
   title: "Design Sprint Part 2"
   description: "Work in groups and experience how collaborative ideas are tightly focused and integrated to create a user-centric product."
   subtype: workshop
   speakers: [1]
-  #language: en
-  #complexity: "Expert"
+  language: en
+  complexity: "Beginner"
