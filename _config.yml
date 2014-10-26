@@ -11,8 +11,8 @@ description: "An annual Google developer festival in the city where the sun, sea
 baseurl: "https://gdgkotakinabalu.github.io/zeppelin"
 url: "http://devfest.gdgkk.info"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "" #"gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-43601554-1"
+googleAnalyticsSiteUrl: "devfest.gdgkk.info"
 siteVerification: "" #"b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
