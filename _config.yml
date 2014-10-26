@@ -55,7 +55,7 @@ eventDate: "8th and 9th November, 2014"
 typeoutTextValues: '"", "Kota Kinabalu", "Season", "Malaysia"'
 typeoutFallback: "Kota Kinabalu"
 heroButtons:
- #- {link: "", text: "Become a sponsor"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {link: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
 
 # About Block
