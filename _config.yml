@@ -63,7 +63,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg", text: "Developer-focused, Google-related event carefully crafted for you by the GDG community. Awesome speakers and lots of fun!" }
  - {title: "Code Labs", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and discover up-and-coming developer trends." }
- - {title: "Design Sprint", image: "hackathon.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures ways." }
+ - {title: "Design Sprint", image: "hackathon.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures way." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
