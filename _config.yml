@@ -8,12 +8,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Kota Kinabalu 2014"
 email: "ask@gdgkk.info"
 description: "An annual Google developer festival in the city where the sun, sea, and sunset meet"
-baseurl: "https://gdgkotakinabalu.github.io/zeppelin"
+baseurl: "https://gdgkotakinabalu.github.io/zeppelin" #must set this to github, otherwise scripts and images won't load properly
 url: "http://devfest.gdgkk.info"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43601554-1"
-googleAnalyticsSiteUrl: "devfest.gdgkk.info"
-siteVerification: "T3cMWRRqKXnotcBGKrVzXBoYj6IRhGbiHRKhb2Qi4hU"
+googleAnalyticsTrackingId: "UA-43601554-1" #in google analytics
+googleAnalyticsSiteUrl: "devfest.gdgkk.info" #must match google analytics url
+siteVerification: "wlnWMMLRU6cD5hm7fr11awlUWhzEANdPgWlFZKosF0o" #in google webmaster tools > verification settings > verification methods > html tags 
 
 # Organizer Info
 organizerName: "GDG Kota Kinabalu"
