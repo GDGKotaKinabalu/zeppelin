@@ -210,7 +210,7 @@ logisticsMapMobileCenterCoordinates: "5.978641,116.076154"
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Kota Kinabalu"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "From the Airport", information: 'Kota Kinabalu International Airport terminals 1 and 2 are right at the city border. One of its stops is practically in front of the venue building. Just inform the driver that you want to stop at Wisma Bandaraya or Padang Bandaran.'}
  #- {title: "Public Transit", information: 'Google Transit is available in Kota Kinabalu. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Kota Kinabalu has lots of great hotels and hostels nearby the venue. More information will be added soon.'}
 #directionDetailsWideCards:
