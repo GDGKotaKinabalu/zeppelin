@@ -1,6 +1,6 @@
 - 
   date: "2014-11-08"
-  dateReadable: "8th November 2014"
+  dateReadable: "8th November 2014, Saturday"
   tracks: 
     - {title: "Polymer Polytechnic", color: "#90be4e"}
   timeslots:
@@ -47,7 +47,7 @@
     }
 - 
   date: "2014-11-09"
-  dateReadable: "9th November 2014"
+  dateReadable: "9th November 2014, Sunday"
   tracks: 
     - {title: "Design Sprint", color: "#03a9f4"}
   timeslots: 
