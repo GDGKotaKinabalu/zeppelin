@@ -63,7 +63,8 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg", text: "Developer-focused, Google-related event carefully crafted for you by the GDG community. Awesome speakers and lots of fun!" }
  - {title: "Code Labs", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and discover up-and-coming developer trends." }
- - {title: "Design Sprint", image: "hackathon.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures way." }
+ - {title: "Mini Hackathon", image: "hackathon.jpg", text: "Half-day freestyle hackathon, based on Polymer. Practice what you learn and develop cool mobile or web apps anyway you want." }
+ - {title: "Design Sprint", image: "design-sprint.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures way." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -86,7 +87,7 @@ rockstarSpeakersButtonText: "See Speaker Details"
 locationBlockTitle: "Location"
 eventLocationName: "Wisma Bandaraya"
 eventLocationLink: "" #"http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "13th & 14th Floors, Wisma Bandaraya, Jalan Padang"
+eventStreetAddress: "13th Floor, Wisma Bandaraya, Jalan Padang"
 eventAddressLocality: "Kota Kinabalu"
 eventAddressLocalityRegion: "Sabah"
 eventPostalCode: "88000"
