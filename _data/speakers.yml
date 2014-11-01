@@ -8,7 +8,7 @@
   thumbnailUrl: HadiOthman.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MdHadiShafieOthman/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MdHadiShafieOthman/about"}
 - 
   id: 2
   name: "Taylor"
@@ -19,4 +19,15 @@
   thumbnailUrl: TaylorLing.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+TaylorLing"}
+    - {name: "google-plus", link: "https://plus.google.com/+TaylorLing/about"}
+- 
+  id: 3
+  name: "Lorna"
+  surname: "Timbah"
+  company: "GDG Kota Kinabalu"
+  title: "Community Manager"
+  bio: '16 years of back-end web development, Lorna focuses on AMP stack development, with a particular interest in RESTful web services and development. Other than teaching part-time at Open University Malaysia Sabah, she actively contributes and develops on WordPress as a plugin developer and polyglots validator. Her current effort is to build up a vibrant developer community that can contribute to the growth of ICT in Kota Kinabalu, and subsequently in Sabah.'
+  thumbnailUrl: LornaTimbah.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+LornaTimbah/about"}
