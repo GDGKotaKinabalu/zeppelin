@@ -1,10 +1,10 @@
 - 
-  group: "Main Supporters"
+  group: "Main Supporter"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 - 
   group: "In collaboration with"
   elements: 
-    - {name: "Sabah Ministry of Resource Development and IT", description: "", link: "https://www.kpsktm.sabah.gov.my/", imageUrl: "kpsktm.jpg", width: "120px"}
-    - {name: "Cosmopoint College Kota Kinabalu", description: "", link: "http://www.cosmopointkotakinabalu.com", imageUrl: "cosmopoint.png", width: "120px"}
-    - {name: "Kinabalu Coders", description: "", link: "", imageUrl: "kkcoders.png", width: "120px"}
+    - {name: "Sabah Ministry of Resource Development and IT", description: "", link: "https://www.kpsktm.sabah.gov.my/", imageUrl: "kpsktm.jpg", width: "240px"}
+    - {name: "Cosmopoint College Kota Kinabalu", description: "", link: "http://www.cosmopointkotakinabalu.com", imageUrl: "cosmopoint.png", width: "240px"}
+    - {name: "Kinabalu Coders", description: "", link: "", imageUrl: "kkcoders.png", width: "240px"}
