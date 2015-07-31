@@ -1,6 +1,8 @@
+### General ###
+*.lock
+
 ### Jekyll ###
 _site/
-
 
 ### Sass ###
 .sass-cache
