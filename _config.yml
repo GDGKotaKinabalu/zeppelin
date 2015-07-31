@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Kota Kinabalu 2014"
+title: "GDG DevFest Kota Kinabalu 2015"
 email: "ask@gdgkk.info"
 description: "An annual Google developer festival in the city where the sun, sea, and sunset meet"
 baseurl: "https://gdgkotakinabalu.github.io/zeppelin" #must set this to github, otherwise scripts and images won't load properly
@@ -50,10 +50,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "8th and 9th November, 2014"
-typeoutTextValues: '"", "Kota Kinabalu", "Season", "Malaysia"'
-typeoutFallback: "Kota Kinabalu"
+heroTitle: "GDG DevFest <typeout> Kota Kinabalu"
+eventDate: "7th and 8th November, 2015"
+typeoutTextValues: '"", "GameFest", "Mobile Web", "2015"'
+typeoutFallback: "2015"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
  - {link: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
