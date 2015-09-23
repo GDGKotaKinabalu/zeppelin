@@ -24,7 +24,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgkk.info/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, polymer, design sprint, startup, developers, kota kinabalu"
+metaKeywords: "event, gdg, devfest, google, programming, polymer, google play, games, mobile, startup, developers, kota kinabalu"
 twitterAccount: "@GDGKotaKinabalu"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -41,7 +41,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
- - {link: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
+ - {link: "http://www.eventbrite.com/e/gdg-devfest-kk-2015-tickets-17980359740", text: "Register"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -56,15 +56,14 @@ typeoutTextValues: '"", "GameFest", "Mobile Web", "2015"'
 typeoutFallback: "2015"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
- - {link: "http://goo.gl/forms/wvWiJNDOvs", text: "Register"}
+ - {link: "http://www.eventbrite.com/e/gdg-devfest-kk-2015-tickets-17980359740", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg", text: "Developer-focused, Google-related event carefully crafted for you by the GDG community. Awesome speakers and lots of fun!" }
- - {title: "Code Labs", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and discover up-and-coming developer trends." }
- - {title: "Mini Hackathon", image: "hackathon.jpg", text: "Half-day freestyle hackathon, based on Polymer. Practice what you learn and develop cool mobile or web apps anyway you want." }
  - {title: "Design Sprint", image: "design-sprint.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures way." }
+ - {title: "Code Labs", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and discover up-and-coming developer trends." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
