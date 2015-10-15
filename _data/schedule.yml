@@ -1,8 +1,6 @@
 - 
-  date: "2014-11-08"
-  dateReadable: "8th November 2014, Saturday"
-  tracks: 
-    - {title: "Polymer Polytechnic", color: "#90be4e"}
+  date: "2015-11-08"
+  dateReadable: "8th November 2015, Sunday"
   timeslots:
     - {
     	startTime: "09:00",
@@ -39,53 +37,6 @@
     	startTime: "02:00",
     	endTime: "05:00",
     	sessionIds: [104]
-    }
-    - {
-    	startTime: "05:00",
-    	endTime: "",
-    	sessionIds: [004]
-    }
-- 
-  date: "2014-11-09"
-  dateReadable: "9th November 2014, Sunday"
-  tracks: 
-    - {title: "Design Sprint", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "09:00",
-    	endTime: "10:00",
-    	sessionIds: [001]
-    }
-    - {
-      startTime: "10:00",
-      endTime: "10:30",
-      sessionIds: [301]
-    }
-    - {
-    	startTime: "10:30",
-    	endTime: "11:00",
-    	sessionIds: [201]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "12:00",
-    	sessionIds: [202]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "01:00",
-    	sessionIds: [203]
-    }
-    - {
-    	startTime: "01:00",
-    	endTime: "02:00",
-    	sessionIds: [003]
-    }
-    
-    - {
-    	startTime: "02:00",
-    	endTime: "05:00",
-    	sessionIds: [204]
     }
     - {
     	startTime: "05:00",

@@ -6,5 +6,4 @@
   group: "In collaboration with"
   elements: 
     - {name: "Sabah Ministry of Resource Development and IT", description: "", link: "https://www.kpsktm.sabah.gov.my/", imageUrl: "kpsktm.jpg", width: "240px"}
-    - {name: "Cosmopoint College Kota Kinabalu", description: "", link: "http://www.cosmopointkotakinabalu.com", imageUrl: "cosmopoint.png", width: "240px"}
-    - {name: "Kinabalu Coders", description: "", link: "", imageUrl: "kkcoders.png", width: "240px"}
+    - {name: "Kinabalu Coders", description: "", link: "http://kinabalucoders.org", imageUrl: "kkcoders.png", width: "240px"}
