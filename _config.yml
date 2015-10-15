@@ -61,9 +61,9 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Tech Talks", image: "conference.jpg", text: "Developer-focused, Google-related event carefully crafted for you by the GDG community. Awesome speakers and lots of fun!" }
- - {title: "Design Sprint", image: "design-sprint.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures way." }
- - {title: "Code Labs", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and discover up-and-coming developer trends." }
+ - {title: "Tech Talks", image: "conference.jpg", text: "Developer-focused, Google-related event carefully crafted for you by the GDG community." }
+ - {title: "Demos & Fireside Chat", image: "design-sprint.jpg", text: "Live demonstrations of web app building in less than an hour, and fireside chat with game developers from Sabah and Asian region." }
+ - {title: "Self-Paced Code Labs", image: "workshop.jpg", text: "Discover graphics modeling and web programming using our codelabs running on Raspberry Pi." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
