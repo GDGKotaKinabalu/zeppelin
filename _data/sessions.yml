@@ -1,4 +1,9 @@
 -
+  id: 001
+  title: "Registration"
+  place: "Lounge"
+  service: true
+-
   id: 002
   title: "Coffee Break"
   place: "Hall"
@@ -14,11 +19,6 @@
   place: "Hall"
   service: true
 -
-  id: 001
-  title: "Registration"
-  place: "Lounge"
-  service: true
--
   id: 301
   title: "Welcoming remarks"
   service: true
@@ -29,65 +29,33 @@
   #complexity: "Intermediate"
 -
   id: 101
-  title: "Introduction to Polymer"
-  description: "Demo to understand how Polymer is built on top of a set of powerful new web platform primitives called Web Components and helps to monumentally increase developer productivity."
+  title: ""
+  description: ""
   subtype: techtalk
   speakers: [3]
   language: en
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 102
-  title: "Codelab: Web Components"
-  description: "Use Polymer to build a mobile-friendly, Web Component-based, Google Drive client. The app supports choosing files by selecting or dragging and dropping. The app then uploads these files and persists them to a Google Drive account."
-  subtype: codelab
+  title: "Mobile App Monetisation with AdMob"
+  description: ""
+  subtype: techtalk
   speakers: [3]
   language: en
   complexity: "Intermediate"
 -
   id: 103
-  title: "Codelab: No-code programming for mobile apps"
-  description: "Build a responsive mobile web app, featuring paper elements, paper widgets, ink effects, data-binding features and callbacks."
-  subtype: codelab
+  title: "Building A Mobile First Web App Experience"
+  description: ""
+  subtype: demo
   speakers: [3]
   language: en
   complexity: "Intermediate"
 -
   id: 104
-  title: "Mini-Hackathon"
-  description: "Get creative and build your very own Polymer project."
+  title: "Fireside Chat with Sabah Game Developers"
+  description: ""
   subtype: hackathon
-  #speakers: [6]
+  speakers: [6]
   language: en
   complexity: "Intermediate"
--
-  id: 201
-  title: "Introduction to Design Sprint"
-  description: "Discover what a design sprint is all about and how it can help you in fast-tracking your product development."
-  subtype: techtalk
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
--
-  id: 202
-  title: "Best Practices in UI/UX and Material Design"
-  description: "Learn how interface design enhances user experience, and explore how Material Design changes the way we interact with our applications."
-  subtype: techtalk
-  speakers: [2]
-  language: en
-  complexity: "Beginner"
--
-  id: 203
-  title: "Design Sprint Part 1"
-  description: "Work in groups and experience how collaborative ideas are tightly focused and integrated to create a user-centric product."
-  subtype: workshop
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
--
-  id: 204
-  title: "Design Sprint Part 2"
-  description: "Work in groups and experience how collaborative ideas are tightly focused and integrated to create a user-centric product."
-  subtype: workshop
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
